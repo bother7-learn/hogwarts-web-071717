@@ -1,4 +1,7 @@
- const Hogs = [
+
+
+const HOGS =
+[
     {'name': "Mudblood",
      'specialty': "Mediocre magic",
      'greased': false,
@@ -79,4 +82,4 @@
   }
 ]
 
-export default Hogs
+export default HOGS
